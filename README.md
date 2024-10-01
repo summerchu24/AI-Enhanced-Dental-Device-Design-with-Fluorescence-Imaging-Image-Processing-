@@ -42,10 +42,9 @@ Two main datasets are used in this project:
    pip install -r requirements.txt
 3. Download the datasets and place them in the `data/` folder.
 4. Train the models using the provided notebooks:
- - `oral_lesions_classification.ipynb`
- - `oral_condition_detection_yolov5.ipynb`
- - `semantic_segmentation_unet.ipynb`
-5. View results and predictions in the `results/` folder.
+ - `oral_lesions_colab.ipynb`
+ - `oral condition detection.ipynb`
+5. View data preprocessing and data visualization in the `data pipeline/` folder.
 
 ## Results
 - **Oral Lesion Classification**: Achieved ~94% accuracy on the testing set.
