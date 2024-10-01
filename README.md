@@ -24,8 +24,7 @@ The project consists of two main components:
 - `src/`: Contains the source code for model training and evaluation.
 - `data/`: Placeholder for the dental image datasets (not included due to size constraints).
 - `notebooks/`: Jupyter notebooks for training models and conducting experiments.
-- `models/`: Pre-trained models and weights (if available).
-- `results/`: Contains model outputs, performance metrics, and visualizations.
+- `data pipeline/`: Preprocessing data and data visualization
 
 ## Dataset
 
